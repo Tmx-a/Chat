@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+.venv/
+venv/
+ENV/
+envs/
+
+# Django & PyCharm/IDE
+*.sqlite3
+*.log
+*.pot
+*.pyc
+.DS_Store
+.vscode/
+.idea/
+.ropeproject
+*.swp
+
+# Node / Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/public/
+
+# Backend media / uploads
+backend/media/
+backend/media/uploads/
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+# Mac artifacts
+.DS_Store
